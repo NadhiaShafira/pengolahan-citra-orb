@@ -246,7 +246,7 @@ Kode tersebut digunakan untuk:
 
 ### 📸 Hasil Feature Matching
 
-![Feature Matching](Screenshot_Hasil_ORB/SS_4_Feature_Matching.png)
+![Feature Matching](https://github.com/NadhiaShafira/pengolahan-citra-orb/blob/cdd609625ef8a9cef52b98850bfdc960e5e22516/Screenshot_Hasil_ORB/SS_4_Feature_Matching.png.png)
 
 ---
 
