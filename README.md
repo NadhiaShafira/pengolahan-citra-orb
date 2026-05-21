@@ -137,7 +137,7 @@ Tujuan grayscale:
 
 ### 📸 Hasil Grayscale
 
-![Grayscale](Screenshot_Hasil_ORB/SS_2_Grayscale.png)
+![Grayscale](https://github.com/NadhiaShafira/pengolahan-citra-orb/blob/08521611afb46187527792b0363461c3536c9b33/Screenshot_Hasil_ORB/SS_2_Grayscale.png.png)
 
 ---
 
